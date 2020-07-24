@@ -1,6 +1,6 @@
 +++
-title = "reveal-hugo"
-description = "A Hugo theme for creating Reveal.js presentations"
+title = "Digimente"
+description = "Digimente"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
@@ -12,8 +12,6 @@ transition_speed = "fast"
 class = "hotpink"
 background = "#FF4081"
 +++
-
-# ¡Hola!
 
 Estamos trabajando en el
 primer currículo
