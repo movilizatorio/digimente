@@ -13,6 +13,8 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
+# 💻
+
 Estamos trabajando en el
 primer currículo
 de educación mediática
