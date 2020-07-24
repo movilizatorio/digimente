@@ -13,12 +13,12 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-# 📱
+# ¡Hola!
 
 Estamos trabajando en el
 primer currículo
 de educación mediática
-para América Latina 😍
+para América Latina
 
 ---
 
