@@ -1,1 +1,11 @@
-<!-- override this partial to add content before the body tag closes -->
+<<head>
+  <img id="logo" src="{{ .Param "logo.src" }}" alt="{{ .Param "logo.alt" }}">
+  <style>
+    #logo {
+      position: absolute;
+      top: 1%;
+      left: 2%;
+      width: 500px;
+    }
+  </style>
+</head>>
