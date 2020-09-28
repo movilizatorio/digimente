@@ -50,6 +50,6 @@ Te invitamos a conocer más sobre este proyecto pronto.
 ---
 {{< slide background-color="#f2f2f2" transition="zoom" >}}
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdZO6_rmsWhyfNOQJuI-SNmE__hifGGd-fY8ijjtBR8vsp_HQ/viewform">¡Déjanos tu email!</a>
+¡Déjanos tus datos <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZO6_rmsWhyfNOQJuI-SNmE__hifGGd-fY8ijjtBR8vsp_HQ/viewform">aquí</a>!
 
-Más sobre DigiMente, <a href="https://latam.googleblog.com/2020/08/digimente-un-proyecto-para-fomentar-la-educacion-mediatica-en-hispanoamerica.html">aquí</a>.
+Para más información, escríbenos a <a href="mailto:info@digimente.org">info@digimente.org</a>.
