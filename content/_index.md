@@ -27,7 +27,7 @@ Movilizatorio, Teach For All, Enseñá por Argentina, Enseña por Colombia, Ense
 
 {{< slide background-color="#F7DB99" >}}
 
-Por eso creamos `DigiMente`, una apuesta de alfabetización mediática para América Latina hispano hablante.
+Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para América Latina hispano hablante.
 
 ---
 
