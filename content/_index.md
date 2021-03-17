@@ -39,7 +39,7 @@ Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para Amé
 ---
 {{< slide background-color="#9cc6da" >}}
 
-<img src="https://movilizatorio.github.io/digimente/rueda.png" style="background:none; border:none; box-shadow:none;" width="550" height="550">
+<img src="https://movilizatorio.github.io/digimente/digirueda.png" style="background:none; border:none; box-shadow:none;" width="550" height="550">
 
 ¡Y ya puedes acceder a una versión preliminar <a href="https://drive.google.com/drive/folders/1WEXMxhQWmPpz8F7I3S8KkglWMS56PaPK?usp=sharing" target="_blank" rel="noopener">aquí</a>!
 
