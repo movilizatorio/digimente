@@ -33,23 +33,30 @@ Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para Amé
 
 {{< slide background-color="#f6b6a6" >}}
 
-Desarrollaremos un currículo abierto, contextualizado y basado en el mejor conocimiento y estado del arte en alfabetización mediática, para que esté disponible para profesores y estudiantes a lo largo y ancho del hemisferio.
+`DigiMENTE` es un currículo abierto, contextualizado y basado en el mejor conocimiento sobre alfabetización mediática disponible para profesores y estudiantes de todo el hemisferio.
+
 
 ---
-
 {{< slide background-color="#9cc6da" >}}
 
-Sabemos que la educación tiene el poder de transformar, conectar y empoderar a los y las jóvenes en todo el continente.
+<img src="https://movilizatorio.github.io/digimente/rueda.png" style="background:none; border:none; box-shadow:none;" width="550" height="550">
+
+¡Y ya puedes acceder a una versión preliminar <a href="https://drive.google.com/drive/folders/1WEXMxhQWmPpz8F7I3S8KkglWMS56PaPK?usp=sharing">aquí</a>!
 
 ---
-
 {{< slide background-color="#a7dbb3" >}}
 
-Te invitamos a conocer más sobre este proyecto pronto.
+<iframe width="750" height="422" src="https://www.youtube.com/embed/A60mSh6n30c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`DigiMENTE` también incluirá recursos audiovisuales.
+
+¡Mira un ejemplo!
 
 ---
 {{< slide background-color="#f2f2f2" transition="zoom" >}}
 
-¡Déjanos tus datos <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZO6_rmsWhyfNOQJuI-SNmE__hifGGd-fY8ijjtBR8vsp_HQ/viewform">aquí</a>!
+##### ¡Vuelve el 15 de abril que estaremos de estreno! #####
 
-Para más información, escríbenos a <a href="mailto:info@digimente.org">info@digimente.org</a>.
+Mientras tanto, déjanos tus datos <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZO6_rmsWhyfNOQJuI-SNmE__hifGGd-fY8ijjtBR8vsp_HQ/viewform">aquí</a>
+
+o escríbenos a <a href="mailto:info@digimente.org">info@digimente.org</a>.
