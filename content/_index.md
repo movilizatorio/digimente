@@ -46,9 +46,9 @@ Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para Amé
 ---
 {{< slide background-color="#a7dbb3" >}}
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/A60mSh6n30c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 `DigiMENTE` también incluirá recursos audiovisuales.
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/A60mSh6n30c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ¡Mira un ejemplo!
 
