@@ -44,7 +44,7 @@ Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para Amé
 ¡Y ya puedes acceder a una versión preliminar <a href="https://drive.google.com/drive/folders/1WEXMxhQWmPpz8F7I3S8KkglWMS56PaPK?usp=sharing" target="_blank" rel="noopener">aquí</a>!
 
 <small>
-⚠️ Ten presente que el currículo final está en desarrollo y pronto podrás descargarlo ⚠️
+⚠️ Ten presente que el currículo final se encuentra aún en fase de desarrollo ⚠️
 </small>
 
 ---
