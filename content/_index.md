@@ -59,7 +59,7 @@ Por eso creamos `DigiMENTE`, una apuesta de alfabetización mediática para Amé
 ---
 {{< slide background-color="#f2f2f2" transition="zoom" >}}
 
-##### ¡Vuelve el 15 de abril que estaremos de estreno! #####
+##### ¡Vuelve el 28 de abril que estaremos de estreno! #####
 
 Mientras tanto, déjanos tus datos <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZO6_rmsWhyfNOQJuI-SNmE__hifGGd-fY8ijjtBR8vsp_HQ/viewform">aquí</a>
 
